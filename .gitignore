@@ -1,1 +1,3 @@
+# ! se pone antes para generar excepciones de que archivos no deben ser ignorados
+
 *.jpg
