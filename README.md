@@ -10,3 +10,7 @@ Para poder editar los archivos .md se recomienda utilzar  [M Editor.md](https://
 
 - ###### Cambiar el tamaño de los titulos
 - ** Entre otras cosas.**
+
+
+
+* CReado por el increible Platzi Team
