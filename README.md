@@ -14,3 +14,4 @@ Para poder editar los archivos .md se recomienda utilzar  [M Editor.md](https://
 
 
 * CReado por el increible Platzi Team
+**incluye ejemplos en windows, linux y mac
